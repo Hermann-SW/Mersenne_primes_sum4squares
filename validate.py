@@ -1,5 +1,5 @@
 import sys
-sys.set_int_max_str_digits(17000)
+sys.set_int_max_str_digits(114000)
 import M
 for i in range(1,29):
   m=M.M[i]
